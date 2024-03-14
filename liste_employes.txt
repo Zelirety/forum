@@ -1,0 +1,35 @@
+Prénom		Sexe 		Age		Yeux 		Cheveux 	 Taille 	  
+
+Mehdi		Homme		18		Bruns		Bruns		1.40 m
+Soizig		Femme		19		Verts		Bruns		1.62 m
+Jacques		Homme		22		Verts		Blonds		1.78 m
+Valentin	Homme		17		Bruns		Bruns		1.77 m
+Deborah		Femme		17		Bleux		Noirs		1.59 m
+Aela		Femme		18		Bleux		Bruns		1.55 m
+Louise		Femme		19		Bleux		Blonds		1.61 m
+Louis		Homme		18		Bruns		Bruns		1.86 m
+Nathan		Homme		17		Bleux		Noirs		1.80 m
+Michel		Homme		19		Bruns		Blonds		1.57 m
+Claude		Homme		24		Verts		Blonds		1.58 m
+Marc		Homme		33		Verts		Bruns		1.68 m
+Rémi		Homme		15		Verts		Noirs		1.78 m
+Clément		Homme		17		Verts		Bruns		1.81 m
+Mathieu		Homme		17		Bleux		Bruns		1.69 m
+Jean		Homme		17		Bruns		Blonds		1.84 m
+Clarence	Homme		17		Bleux		Bruns		1.55 m
+Justin		Homme		21		Bruns		Roux(beurk)	1.85 m
+Dylan		Homme		23		Verts		Bruns		1.76 m
+Justine		Femme		27		Bruns		Noirs		1.48 m
+Ferdinand	Homme		29		Verts		Bruns		1.52 m
+Sacha		Homme		17		Bleux		Blonds		1.60 m
+Noémie		Femme		53		Verts		Bruns		1.63 m
+Robin		Homme		17		Bleux		Blonds		1.78 m
+Cassandre	Femme		28		Bruns		Noirs		1.58 m
+Hector		Homme		56		Verts		Bruns		1.75 m
+Axel		Homme		16		Bleux		Blonds		1.80 m
+Lilou		Femme		19		Verts		Verts		1.54 m
+Mathias		Homme		17		Bruns	        Bruns		1.62 m
+Atlas		Homme		18		Verts		Noirs		1.99 m
+Ewarn		Homme		42		Bruns		Noirs		1.72 m
+Lucien		Homme		45		Bruns		Bruns		1.58 m
+Alan		Homme		17		Bleux		Noirs		1.57 m
