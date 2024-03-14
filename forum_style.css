@@ -1,0 +1,114 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background:linear-gradient(black,darkred,red);
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    margin-top: 20px;
+}
+
+.conversations {
+    float: left;
+    width: 30%;
+}
+
+.conversations h2 {
+    color: #007bff;
+}
+
+.conversations ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.conversations li {
+    margin-bottom: 10px;
+}
+
+.conversations a {
+    color: #000;
+    text-decoration: none;
+}
+
+.conversation {
+    width: 70%;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+.messages {
+    margin-bottom: 20px;
+}
+
+
+.message-form {
+    display: flex;
+}
+
+.message-form input[type="text"] {
+    flex: 1;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin-right: 10px;
+}
+
+.message-form button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+}
+
+.message-form button:hover {
+    background-color: #0056b3;
+}
+
+
+.message.user1 {
+    text-align: right; /* Align user's message to the right */
+}
+
+.message.user1 .message-content {
+    background-color: #67e308; /* Green background color for user's message */
+    border-radius: 10px;
+    padding: 10px;
+    display: inline-block;
+}
+
+.message.user2 .message-content {
+    background-color: #86978a; /* Grey background color for other user's messages */
+    border-radius: 10px;
+    padding: 10px;
+    display: inline-block;
+}
+.message {
+    margin-bottom: 10px;
+    padding: 10px;
+    display: block;
+}
+.ads-container {
+    flex: 3; /* 30% of the width */
+}
+.ads-container img {
+    width: 100%; /* Make images fill the ads container */
+    align-items: center;
+}
+.container {
+    display: flex;
+    flex-direction: row;
+}
