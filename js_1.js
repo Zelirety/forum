@@ -6,7 +6,7 @@ document.getElementById("loginForm").addEventListener("submit", function(event) 
     var username = document.getElementById("username").value;
     var password = document.getElementById("password").value;
     // Check if username and password are correct
-    if (username === "user" && password === "password") {
+    if (username === "Ben" && password === "697843") {
         // If correct, display success message and redirect
         window.location.href = "logged_employe.html"; // Redirect to success page
     } else {
