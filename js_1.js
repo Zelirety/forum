@@ -13,7 +13,7 @@ document.getElementById("loginForm").addEventListener("submit", function(event) 
         // If incorrect, display error message
         document.getElementById("loginMessage").innerText = "Invalid username or password. Please try again.";
     }
-    if (username === "bob" && password === "HgT56*Io;svgFh") {
+    if (username === "SPOOF_goat" && password === "HgT56*Io;svgFh") {
         // If correct, display success message and redirect
         window.location.href = "logged_admin.html"; // Redirect to success page
     } else {
